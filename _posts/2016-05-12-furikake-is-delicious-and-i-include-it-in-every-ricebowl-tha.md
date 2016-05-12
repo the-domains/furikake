@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Furikake is delicious and I include it in every ricebowl that I make
-datePublished: '2016-05-12T17:23:59.696Z'
-dateModified: '2016-05-12T17:22:41.129Z'
+description: Furikake is delicious and I include it in every rice-bowl that I make.
+datePublished: '2016-05-12T17:24:15.402Z'
+dateModified: '2016-05-12T17:24:10.244Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-furikake-is-delicious-and-i-include-it-in-every-ricebowl-tha.md
@@ -21,4 +21,4 @@ url: furikake-is-delicious-and-i-include-it-in-every-ricebowl-tha/index.html
 _type: Article
 
 ---
-Furikake is delicious and I include it in every ricebowl that I make
+Furikake is delicious and I include it in every rice-bowl that I make.
